@@ -34,7 +34,7 @@ See [`decision-maker/references/methods.md`](decision-maker/references/methods.m
 Clone into your skills directory:
 
 ```bash
-git clone https://github.com/<your-username>/decision-maker.git
+git clone https://github.com/kidfitch/decision-maker.git
 cp -r decision-maker ~/.claude/skills/
 ```
 
